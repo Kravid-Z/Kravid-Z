@@ -1,5 +1,5 @@
 <div align="center"> <h1> Hello there 👋, I'm David</h1>
-[" "](./assets/img/marvinWB.gif)
+[MarvinWB](./assets/img/marvinWB.gif)
 </div>
 
 I'm an enthusiast for self-learning and improvement, Full Stack Developer & Entrepreneur.
