@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there 👋, I'm David <img src="https://media.giphy.com/media/qcSlTCrrrFbNxi3GEX/source.gif" alt="Hello" width="30"/>
+
 
 <!--
 **Kravid-Z/Kravid-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
