@@ -3,7 +3,7 @@
 I'm an enthusiast for self-learning and improvement, Full Stack Developer & Entrepreneur.
 
 > Co-Founder at [Green Coffees](https://www.greencoffees.es)
-> Currently Building [Loyally](https://www.https://loyally-app-demo.vercel.app))
+> Currently Building [Loyally](https://www.https://loyally-app-demo.vercel.app)
 
 <!--
 **Kravid-Z/Kravid-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
