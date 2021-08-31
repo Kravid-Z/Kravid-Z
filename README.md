@@ -8,7 +8,7 @@
 
 > Co-Founder at [Green Coffees](https://www.greencoffees.es)
 >
-> Currently Building [Loyally](https://loyally-app-demo.vercel.app) ![Loyally](https://user-images.githubusercontent.com/77252594/131497103-5e2d705f-c6ba-48e1-9f77-492ca4365022.png)
+> Currently Building [Loyally](https://loyally-app-demo.vercel.app)
 
 ```javascript
 const David = {
