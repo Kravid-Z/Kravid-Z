@@ -36,6 +36,12 @@ const David = {
   architecture: ["event-driven", "design system pattern"],
 };
 ```
+<div align="center">
+<a href="https://github.com/Kravid-Z/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kravid-Z&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kravid-Z&count_private=true&show_icons=true&theme=gruvbox" />
+</a>
+</div>
 
 <!--
 **Kravid-Z/Kravid-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
