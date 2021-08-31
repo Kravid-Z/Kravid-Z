@@ -1,4 +1,4 @@
-<div class="hero" > <h1> Hello there 👋, I'm David</h1> <img src="https://media.giphy.com/media/qcSlTCrrrFbNxi3GEX/source.gif" alt="Hello World I'm David" width="30"/>
+<div align="center"> <img src="https://media.giphy.com/media/qcSlTCrrrFbNxi3GEX/source.gif" alt="Hello World I'm David" width="30"/> <h1> Hello there 👋, I'm David</h1>
 </div>
 
 I'm an enthusiast for self-learning and improvement, Full Stack Developer & Entrepreneur.
@@ -6,10 +6,7 @@ I'm an enthusiast for self-learning and improvement, Full Stack Developer & Entr
 > Co-Founder at [Green Coffees](https://www.greencoffees.es)
 > Currently Building [Loyally](https://www.https://loyally-app-demo.vercel.app)
 
-| Syntax    | Description |
-| --------- | ----------- |
-| Header    | Title       |
-| Paragraph | Text        |
+
 
 <!--
 **Kravid-Z/Kravid-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
