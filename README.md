@@ -6,7 +6,7 @@
 <h3>I'm an enthusiast for self-learning and improvement, Full Stack Developer & Entrepreneur.</h3>
 </div>
 
-> Co-Founder at [Green Coffees](https://www.greencoffees.es) [Logo GC](https://raw.github.com/Kravid-Z/Kravid-Z/blob/main/assets/Logos/LogoGC180x180.png)
+> Co-Founder at [Green Coffees](https://www.greencoffees.es) ![LogoGC180x180](https://user-images.githubusercontent.com/77252594/131496903-ed19ca88-3a8f-4786-a028-80473b06f206.png)
 >
 > Currently Building [Loyally](https://loyally-app-demo.vercel.app)
 
