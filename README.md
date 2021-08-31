@@ -6,9 +6,9 @@
 <h3>I'm an enthusiast for self-learning and improvement, Full Stack Developer & Entrepreneur.</h3>
 </div>
 
-> Co-Founder at [Green Coffees](https://www.greencoffees.es)
+> Co-Founder at [Green Coffees](https://www.greencoffees.es) [Logo GC](https://www.greencoffees.es)
 >
-> Currently Building [Loyally](https://www.https://loyally-app-demo.vercel.app)
+> Currently Building [Loyally](https://loyally-app-demo.vercel.app)
 
 ```javascript
 const David = {
