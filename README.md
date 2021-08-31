@@ -57,6 +57,26 @@ const David = {
 </a>
 </div>
 
+---
+
+<h2 align="center">🛠️ My Stack</h2>
+<br>
+<div align="center">
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node.js logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react.js logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="next.js logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux logo" />
+<img width="53" height="53" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="phothoshop logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="wordpress logo" />
+</div>
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kravid-Z.Kravid-Z)
 <!--
 **Kravid-Z/Kravid-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
