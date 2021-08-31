@@ -2,7 +2,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Kravid-Z/Kravid-Z/master/David.svg" alt="David Zapata" />
 </h1>
----
 <div align= "center">
 <h3>I'm an enthusiast for self-learning and improvement, Full Stack Developer & Entrepreneur.</h3>
 </div>
