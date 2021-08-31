@@ -37,8 +37,8 @@
 				  font-weight: 900;
 				  letter-spacing: -.05em;
 				  text-align: center;
-				  background: -webkit-linear-gradient(right,#3828ca,#ff004c);
-				  background: linear-gradient(270deg,#3828ca 0,#ff004c);
+				  background: -webkit-linear-gradient(right,rgba(241,182,23,0.8337710084033614) 35%, rgba(218,125,34,0.9150035014005602) 52%, rgba(198,146,138,0.6320903361344538) 100%));
+				  background:linear-gradient(270deg, rgba(241,182,23,0.8337710084033614) 35%, rgba(218,125,34,0.9150035014005602) 52%, rgba(198,146,138,0.6320903361344538) 100%);
 				  background-size: 200%;
 				  background-clip: text;
 				  -webkit-background-clip: text;
