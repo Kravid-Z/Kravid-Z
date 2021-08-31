@@ -2,13 +2,27 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Kravid-Z/Kravid-Z/master/David.svg" alt="David Zapata" />
 </h1>
+
+---
+
 <div align= "center">
 <h3>I'm an enthusiast for self-learning and improvement, Full Stack Developer & Entrepreneur.</h3>
 </div>
 
-> Co-Founder at [Green Coffees](https://www.greencoffees.es)
+> Co-Founder at <a href="https://www.greencoffees.es">**Green Coffees**</a>
 >
-> Currently Building [Loyally](https://loyally-app-demo.vercel.app)
+> Currently Building <a href="https://loyally-app-demo.vercel.app">**Loyally**</a>
+> 
+> Soon to graduate from <a href="https://strive.school/en">**Strive School**</a> 
+---
+<h2>Feel free to connect with me 😊!</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/christiandavidzapata">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<h2>About Me</h2>
 
 ```javascript
 const David = {
@@ -43,6 +57,7 @@ const David = {
 </a>
 </div>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Kravid-Z.Kravid-Z)
 <!--
 **Kravid-Z/Kravid-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
