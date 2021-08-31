@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Kravid-Z/Kravid-Z/master/David.svg" alt="David Zapata" />
 </h1>
-<div align="center"> <img src="https://media.giphy.com/media/qcSlTCrrrFbNxi3GEX/source.gif" alt="Hello World I'm David" width="30"/> <h1> Hello there 👋, I'm David</h1>
+<div align="center"> <img src="https://media.giphy.com/media/qcSlTCrrrFbNxi3GEX/source.gif" alt="Hello World I'm David" width="30"/> <h1> Hello there 👋!</h1>
 </div>
 
 <div align= "center">
@@ -12,18 +12,16 @@
 > 
 > Currently Building [Loyally](https://www.https://loyally-app-demo.vercel.app)
 
-`const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}`
+```javascript
+const David = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Node, ExpressJS, Sequelize, GitHub, Wordpress, PhotoShop],
+  "Data Bases": [MongoDB, PostgreSQL],
+  "Skills in progress": [ReactNative, Docker, Kubernetes, Kafka, "microservices", Swift],
+  architecture: ["event-driven", "design system pattern"],
+}
+```
 
 
 <!--
