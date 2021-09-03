@@ -11,7 +11,7 @@
 
 > Co-Founder at <a href="https://www.greencoffees.es">**Green Coffees**</a>
 >
-> Project currently I'm building <a href="https://loyally-app-demo.vercel.app">**Loyally**</a>
+> Project currently I'm building 🤩 👉🏽 <a href="https://loyally-app-demo.vercel.app">**Loyally**</a>
 > 
 > Alumni from <a href="https://strive.school/certificate/612f9d7690e6750018cfccc8">**Strive School**</a> 
 ---
