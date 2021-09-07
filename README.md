@@ -1,4 +1,4 @@
-<h1 align="center"> Hello there 👋 I'm! <img src="https://media.giphy.com/media/qcSlTCrrrFbNxi3GEX/source.gif" alt="Hello World I'm David" width="30"/> </h1>
+<h1 align="center"> Hello there 👋 I'm <img src="https://media.giphy.com/media/qcSlTCrrrFbNxi3GEX/source.gif" alt="Hello World I'm David" width="30"/> </h1>
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Kravid-Z/Kravid-Z/master/David.svg" alt="David" />
 </h1>
