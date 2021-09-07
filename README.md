@@ -30,6 +30,7 @@ const David = {
   code: [Javascript, Typescript, HTML, CSS],
   tools: [
     React,
+    NextJS,
     Redux,
     Node,
     ExpressJS,
@@ -37,6 +38,8 @@ const David = {
     GitHub,
     Wordpress,
     PhotoShop,
+    Heroku,
+    Vercel
   ],
   "Data Bases": [MongoDB, PostgreSQL],
   "Skills in progress": [
