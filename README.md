@@ -39,7 +39,9 @@ const David = {
     Wordpress,
     PhotoShop,
     Heroku,
-    Vercel
+    Vercel,
+    Shopify,
+    Liquid
   ],
   "Data Bases": [MongoDB, PostgreSQL],
   "Skills in progress": [
